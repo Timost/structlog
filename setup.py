@@ -37,7 +37,7 @@ EXTRAS_REQUIRE = {
         "freezegun>=0.2.8",
         "pretend",
         "pytest>=3.3.0",
-        "pytest-asyncio; python_version>='3.7'",
+        "pytest-asyncio",
         "python-rapidjson",
         "simplejson",
     ],
